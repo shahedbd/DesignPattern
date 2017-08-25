@@ -1,0 +1,13 @@
+﻿
+
+
+
+References:
+https://en.wikipedia.org/wiki/Abstract_factory_pattern
+http://www.dofactory.com/net/abstract-factory-design-pattern
+http://www.c-sharpcorner.com/article/abstract-factory-design-pattern-in-c-sharp/
+https://www.codeproject.com/Articles/328373/Understanding-and-Implementing-Abstract-Factory-Pa
+
+
+http://www.dotnettricks.com/learn/designpatterns/abstract-factory-design-pattern-dotnet
+https://stackoverflow.com/questions/10513086/abstract-factory-pattern
