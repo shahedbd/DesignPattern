@@ -59,6 +59,8 @@
     <Compile Include="AbstractFactory\Phones\SamsungGuru.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\Calculate.cs" />
+    <Compile Include="Singleton\SingletonRun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AbstractFactory\Notes\Abstract Factory.docx" />
