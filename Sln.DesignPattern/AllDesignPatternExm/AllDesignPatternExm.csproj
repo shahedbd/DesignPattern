@@ -65,9 +65,12 @@
   <ItemGroup>
     <None Include="AbstractFactory\Notes\Abstract Factory.docx" />
     <None Include="App.config" />
+    <None Include="DesignPatterns.docx" />
+    <None Include="Singleton\Notes\Singleton.docx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AbstractFactory\Notes\Ref.txt" />
+    <Content Include="AbstractFactory\Notes\Ref_AbstractFactory.txt" />
+    <Content Include="Singleton\Notes\Ref_Singleton.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

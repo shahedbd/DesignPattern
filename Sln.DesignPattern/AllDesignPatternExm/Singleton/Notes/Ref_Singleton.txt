@@ -1,0 +1,11 @@
+﻿
+
+
+
+http://www.dofactory.com/net/singleton-design-pattern
+http://csharpindepth.com/Articles/General/Singleton.aspx
+http://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
+https://www.codeproject.com/Tips/219559/Simple-Singleton-Pattern-in-Csharp
+http://www.dotnettricks.com/learn/designpatterns/singleton-design-pattern-dotnet
+https://www.dotnetperls.com/singleton
+http://www.csharpstar.com/singleton-design-pattern-csharp/
